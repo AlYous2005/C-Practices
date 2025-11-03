@@ -1,2 +1,11 @@
-# C-Practices
-A collection of C++ practice problems and solutions — includes exercises on arrays, pointers, and strings.
+
+# C++ Practice Projects
+
+This repository contains simple C++ exercises for learning and practicing:
+- Arrays
+- Pointers
+- Strings
+- Functions
+- Classes
+
+Each file focuses on a different topic.
